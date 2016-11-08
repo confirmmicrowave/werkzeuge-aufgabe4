@@ -1,6 +1,6 @@
-* Das ist wa
+* Das ist was
 * Das ist auch was
-  *Hier ist noch mehr
+  * Hier ist noch mehr
 
 
 # <h1> H1
